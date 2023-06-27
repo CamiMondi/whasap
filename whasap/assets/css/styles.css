@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card-body1 {
+  background-color: blanchedalmond;
+}
+
+#nombre {
+  font-family: cursive;
+  font-size: xx-large;
+}
+
+#avatar:hover {
+  width: 20%;
+}
